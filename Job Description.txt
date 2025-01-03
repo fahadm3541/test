@@ -1,0 +1,66 @@
+Job Summary:
+
+We are seeking a highly experienced Senior DevOps Engineer to join our team and lead the implementation and management of cutting-edge DevOps practices. The ideal candidate will have deep expertise across multiple tools, technologies, and cloud platforms, ensuring our systems and applications' seamless delivery and scalability.
+
+ 
+
+Responsibilities:
+
+·                     Utilize tools like Git, GitHub, Bitbucket, or GitLab for version control and repository management.
+
+·                     Design, implement, and maintain CI/CD pipelines using Jenkins, GitLab CI/CD, Azure DevOps Pipelines, or similar tools.
+
+·                     Automate build, test, and deployment processes to ensure rapid delivery of high-quality software.
+
+·                     Develop and manage configuration management processes using tools like Ansible, Chef, or Puppet.
+
+·                     Ensure consistency across development, testing, and production environments.
+
+·                     Build, deploy, and manage containerized applications using Docker and orchestration tools like Kubernetes, AWS ECS, or Azure Kubernetes Service (AKS).
+
+·                     Optimize container workflows and scale infrastructure efficiently.
+
+·                     Design and deploy infrastructure using IaC tools such as Terraform, AWS CloudFormation, or Azure Resource Manager (ARM) Templates.
+
+·                     Manage cloud resources on AWS, Azure, or GCP.
+
+·                     Implement monitoring solutions like Datadog, Prometheus, or ELK Stack to ensure system reliability.
+
+·                     Set up logging systems and dashboards for real-time system analysis.
+
+·                     Streamline release management with tools like Harness, Octopus Deploy, or JFrog Artifactory.
+
+·                     Cloud Platforms
+
+·                     Manage services on cloud platforms like AWS (e.g., EC2, RDS, S3, CloudWatch), Azure (e.g., Virtual Machines, AKS, Azure Monitor) or GCP (e.g., Compute Engine, GKE, Cloud Storage).
+
+·                     Configure and manage web servers like Apache, Nginx, or Tomcat.
+
+·                     Troubleshoot networking components like TCP/IP, DNS, and iptables.
+
+·                     Mentor junior engineers and promote a culture of innovation and automation.
+
+
+Required Skills and Qualifications:
+
+·                     Experience: 8+ years in DevOps or related roles.
+
+·                     Cloud Expertise: Proficiency in AWS, Azure, or GCP.
+
+·                     DevOps Tools: Expertise in CI/CD tools, containerization, and orchestration systems.
+
+·                     Programming & Scripting: Strong skills in Python, Java, Shell, or Bash scripting.
+
+·                     Problem-Solving: Proven ability to troubleshoot complex systems.
+
+·                     Security Awareness: Understanding of DevSecOps principles and best practices.
+
+
+Preferred Skills:
+
+·                     Certifications such as AWS Certified DevOps Engineer, CKA/CKAD (Certified Kubernetes Administrator/Developer), or Azure DevOps Expert.
+
+·                     Familiarity with messaging systems like Kafka or RabbitMQ.
+
+·                     Knowledge of database systems and package management tool
+
