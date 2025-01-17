@@ -1,27 +1,31 @@
-Job Role:Sr DevOps Engineer with Jira Admin
+Job Role: Application side Operations Engineer/ Support role
 
-Location : Bellevue, WA / Parsippany, New Jersey(Onsite)
-
-Job Description :
-
-We need Dev Ops AWS & Rocky Linux server administration Engineers to fulfill the roles on server administration, scripting, designing, implementing, and managing customized AWS system Engineering to meet customer needs. The ideal candidate will have a strong understanding of core AWS services (including ALB), experience with PostgreSQL database administration, Rocky linux jira server administration and scripting skills. They will also proficiently use Jira, Confluence, and Jira Service Management Servers. Excellent communication and problem-solving skills, as well as a dedication to customer success, are crucial. AWS certifications are a plus.
-
- 
-
-Details Job description.
-
-1.JIRA& Confluence Admin skills +Postgress SQL+ Scripting
-
-2. Rocky Linux Admin+ AWS+ Kubernetes+ Scripting.
-
- 
+Location : Walmart, Bentonville
 
 Primary Skill:
+Java ; SQL
 
-Rocky Linux Administration
-Jira, Jira SM and Confluence Linux Server administration
-AWS Console Administration. 
 Responsibilities:
+Problem management, Change Release Management, Capacity management
+Designed and implemented SOPs, improving workflow efficiency.
+Set and document standards for building "schemes" that can be easily used on typical project types, and customize schemes for sophisticated projects which provide efficient workflows, screens, fields queries, reports.
+Established SOPs and quality control measures that reduced error rates.
+Java
+SQL
+Java production support specialist 
+DevOps methodologies to streamline development workflows
+Dynatrace, Tableau, ServiceNow and Grafana
+user story mapping, test-driven development, continuous integration/delivery, deployment, and client-facing web application support
+MongoDB BI connector for Tableau integration, facilitating business 
+diagnosing issues in log data, monitoring the health and performance of systems and applications, automate and enhance QA processes.
+MYSQL database and implemented Swagger for dynamic REST API documentation.
+Kubernetes deploy and services.
+•	Proven track record in strategic operations management, with expertise in process improvement, cost optimization, and scaling operations to meet business growth targets. Skilled in leveraging data to enhance decision-making and boost efficiency.
+•	Innovative operations leader with expertise in Lean Six Sigma methodologies, achieving 10% cost savings and improving productivity through process reengineering. 
+•	Detail-oriented operations manager with experience overseeing supply chain logistics, vendor relations, and compliance management. Adept at identifying and mitigating risks while maintaining seamless operations. Known for delivering on-time and under-budget project execution.
+
+•	Dynamic and results-oriented operations professional with experience in streamlining processes, optimizing workflows, and driving organizational growth. Adept at managing cross-functional teams to deliver measurable results.
+
 
 Solution Design and Implementation: Design, develop, and implement customized AWS solutions to meet specific customer requirements.
 AWS Services: Deep understanding and hands-on experience with a wide range of AWS services, including:
