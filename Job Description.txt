@@ -1,4 +1,30 @@
-Jira integration with dynatrace
-Individual should have experience in Jira Software and Jira Service Management
-creating workflows and implementing business processes. 
-Individual should have working knowledge of Jira Assets and CMDB management as they will be responsible for ingestion/automation of data ingest and developing data hygiene processes working with the Program Manager role we are currently filling.
+Focused Skills: Strong experience in WindRiver, AWS, EKS & Kubernetes
+Proven experience 5 to 8 years in deploying the platform using Windriver for Open RAN (DU/CU) and Edge Network Functions.
+
+5+ years of experience with knowledge on 5G wireless/cellular systems
+
+Understanding of ORAN/vRAN architecture, protocols, and interfaces (e.g., O-RAN Alliance specifications).
+
+Strong understanding of cloud architecture, networking, and security
+
+Proficiency in scripting languages such as Python, Ansible, for playbook.
+
+Experience with virtualization technologies and Wind River cloud platforms is highly desirable.
+
+Excellent interpersonal, organizational, communication and presentations skills.
+
+Experience with Installing/Configuring the Windriver platform with Samsung DU deployment is a distinct advantage.
+
+Knowledge of Kubernetes and containerized network functions (CNFs) for edge cloud infrastructure
+
+Experience with Wind River Cloud Platform, particularly in deploying and managing Distributed Units (DUs) for telecommunications networks
+
+Proven experience in migrating from VMware to Wind River platforms, including execution, and troubleshooting of migration processes.
+
+Experience in VMware
+
+Experience with software development tools and methodologies (e.g., Agile, DevOps).
+
+Knowledge of Windriver Analytics
+
+Proficiency in using automation and orchestration tools such as, Kubernetes, Ansible, or Terraform
