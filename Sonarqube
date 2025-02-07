@@ -1,0 +1,37 @@
+Key Responsibilities
+SonarQube Administration
+Install, configure, and maintain SonarQube instances, ensuring high availability, scalability, and security.
+Manage user access, roles, and permissions within SonarQube.
+Regularly monitor and tune the SonarQube server(s) for performance and reliability.
+
+Integration & Development
+
+·       Work with cross-functional teams to integrate SonarQube seamlessly into CI/CD pipelines (e.g., Azure DevOps, GitHub Actions).
+
+·       Select and integrate custom plugins or extensions to enhance the SonarQube platform as needed, in conjunction with the Application Security and the Security Architecture teams.
+
+·       Configure rule sets, profiles, and quality gates to align with organizational standards and compliance requirements.
+
+·       Validate that documented processes and settings are in place in Sonar and in the SCM.
+
+ 
+
+Code Quality & Governance
+
+·       In conjunction with Application Security and Security Architecture teams, define and enforce code quality standards and best practices across multiple projects and programming languages.
+
+·       Collaborate with development teams to analyze and prioritize code quality issues found by SonarQube scans.
+
+·       Ensure compliance with industry standards, security guidelines, and organizational policies through automated quality checks.
+
+ 
+
+Technical Skills
+
+Strong proficiency in configuring and customizing SonarQube (profiles, quality gates, rule sets).
+
+Knowledge of various programming languages (Java, C#, JavaScript, Python, etc.) and their corresponding SonarQube rules.
+
+Familiarity with common DevOps practices, version control systems (Git), and container orchestration (Docker/Kubernetes) is a plus.
+
+Understanding of software testing methodologies and code review processes.
