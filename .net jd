@@ -1,53 +1,22 @@
-Job Title
+.Net Core
+Senior level ( 10-15 years’ experience
+Leadership skills
+Developer Lead
 
-: Senior C# Engineer with AWS / Full-Stack Developer
-
-Location
-
-: Remote
-
-Type
-
-: Contract
-
- 
-
-Job Description:
-
-Position Overview:
-
-We are seeking a highly skilled and motivated Senior Software Engineer with expertise in .NET, C#, ASP.NET Core, ReactJS, and cloud technologies such as AWS (including Step Functions, Lambda, API Gateway, and S3).
-The ideal candidate must be capable of working independently, taking ownership of projects, and delivering high-quality solutions in a fast-paced environment.
-If you are passionate about building scalable, secure, and modern web applications, this role is for you.
- 
-
-Key Responsibilities:
-
-Design, develop, and maintain robust, scalable, and high-performance applications using .NET Core, C#, and ASP.NET Core.
-Build responsive and interactive user interfaces using ReactJS.
-Architect and implement cloud-native solutions using AWS services, including Step Functions, Lambda, API Gateway, S3, and other related services.
-Create and maintain infrastructure as code using Terraform for AWS resource provisioning and management.
-Develop and consume RESTful APIs, ensuring optimal performance and scalability.
-Ensure high-quality code by performing unit testing, code reviews, and adhering to best practices.
-Collaborate with cross-functional teams, including product managers, designers, and other developers, to deliver end-to-end solutions.
-Debug, troubleshoot, and resolve application and infrastructure issues in a timely manner.
-Take full ownership of assigned projects, including gathering requirements, designing solutions, and delivering on commitments with minimal supervision.
-Continuously monitor and optimize application performance, security, and reliability.
- 
-
-Mandatory skills:
-
-Bachelor’s degree in Computer Science, Information Technology, or a related field, or equivalent experience.
-5+ years of experience in software development, with a strong focus on .NET, C#, and ASP.NET Core.
-Proficiency in front-end development with ReactJS, including state management and component-based architecture.
-Hands-on experience with AWS services such as Step Functions, Lambda, API Gateway, and S3.
-Experience with Terraform for infrastructure as code and cloud resource management.
-Strong understanding of RESTful API design, development, and consumption.
-Proficiency in designing and implementing secure, scalable, and maintainable architectures.
-Strong problem-solving skills and the ability to work independently with minimal guidance.
-Excellent communication skills and a proactive attitude.
-Knowledge of containerization technologies such as Docker and orchestration with Kubernetes.
-Experience with CI/CD pipelines for automated builds, testing, and deployment.
-Familiarity with SQL and NoSQL databases.
-Understanding of modern software design patterns and best practices.
-Experience with Agile/Scrum methodologies.
+10 – 15 years of hands-on experience in software development using the .NET framework and related technologies.
+Proficiency in C#, micro services, and other relevant frameworks.
+Strong knowledge of Microsoft .NET framework, .NET core and design patterns.
+Proven experience in container and cloud technologies, including Docker, ECS Fargate and AWS, as well as secure application development.
+Working knowledge of SQL, DocumentDB/MongoDB, and NoSQL cloud databases.
+Airline experience is a plus.
+Design, develop, and enhance complex applications using the latest .NET framework, C#, and other related technologies.
+Collaborates closely with Product and Delivery Lead to understand business requirements and effectively translate them into technical requirements for the development team.
+Assists in documenting comprehensive technical specifications for features or system design, ensuring a clear roadmap for development and implementation with Product, Delivery Leads and Core Support.
+Builds and configures applications to meet business process and application requirements, leveraging your technical expertise and problem-solving skills.
+Directs the development team in all aspects of the SDLC, including design, development, coding, testing, and debugging, to deliver high-quality solutions.
+Contributes to delivering testable, scalable, and efficient code which include proposing new standards and approaches around all development work.
+Conducts code reviews and provides constructive feedback to ensure code quality and adherence to best practices.
+Mentors and guides junior team members, fostering their professional growth, and encouraging the adoption of industry best practices.
+Ensures that software quality standards are met by enforcing code standards, conducting rigorous testing, and implementing continuous improvement processes.
+Collaborates with cross-functional teams to align technical solutions with business goals and deliver effective and impactful software applications.
+Stays updated with the latest technologies and industry trends, continuously enhancing technical skills, and driving innovation within the development team.
